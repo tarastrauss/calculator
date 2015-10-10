@@ -1,0 +1,36 @@
+#main-box div{
+	display: inline-block;
+
+}
+
+#main-box {
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 80px;
+	font-family: arial;
+
+}
+
+#display-box{
+	border: 1px solid grey;
+	width: 194px;
+	height: 60px;
+	border-radius: 4px;
+	text-align: right;
+	line-height: 60px;
+	margin: 2px 0px -26px 1px;
+	padding-right: 6px;
+	background-color: cadetblue;
+}
+
+.box {
+	border: 1px solid grey;
+	width: 60px;
+	height: 60px;
+	margin: 4px 2px;
+	text-align: center;
+	border-radius: 4px;
+	line-height: 60px;
+	background-color: cadetblue;
+}
+
